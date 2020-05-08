@@ -14,7 +14,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o.mk)
 $(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := bliss_hannah
+PRODUCT_NAME := xtended_hannah
 PRODUCT_DEVICE := hannah
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto e5 plus
