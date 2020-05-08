@@ -41,6 +41,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.device.maintainer=Rohith Pillalamarri
 
+# MotoShakeActions
+PRODUCT_PACKAGES += \
+    MotoShakeActions
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.device.rc
