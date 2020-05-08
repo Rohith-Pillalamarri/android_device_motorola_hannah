@@ -33,6 +33,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/camera/ov5675_jeterht_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov5675_jeterht_chromatix.xml \
     $(LOCAL_PATH)/configs/camera/ov5675_jeterkc_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov5675_jeterkc_chromatix.xml
 
+# MotoActions
+PRODUCT_PACKAGES += \
+    MotoActions
 
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
