@@ -24,3 +24,6 @@ VENDOR_SECURITY_PATCH := 2019-03-01
 
 # Inherit from the proprietary version
 -include vendor/motorola/hannah/BoardConfigVendor.mk
+
+# Properties
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
