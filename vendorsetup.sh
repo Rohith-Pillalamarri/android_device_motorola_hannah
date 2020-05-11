@@ -1,1 +1,1 @@
-add_lunch_combo xtended_hannah-userdebug
+add_lunch_combo havoc_hannah-userdebug
