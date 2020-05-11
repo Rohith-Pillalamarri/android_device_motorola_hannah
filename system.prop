@@ -1,9 +1,9 @@
 # Maintainer                                                           
 PRODUCT_PROPERTY_OVERRIDES += \
-	ro.xtended.maintainer=Rohith_Pillalamarri   
+	ro.device.maintainer=Rohith_Pillalamarri   
 	
 	
-# Xteneded version
-PRODUCT_PROPERTY_OVERRIDES += \
-	ro.xtended.display.version=XP-UNOFFICIAL-Release-v19
+
+
+
 	
