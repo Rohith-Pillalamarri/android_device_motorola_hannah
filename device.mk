@@ -39,7 +39,7 @@ PRODUCT_PACKAGES += \
 
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.device.maintainer=Rohith Pillalamarri
+    ro.device.maintainer=Rohith_Pillalamarri
 
 # MotoShakeActions
 PRODUCT_PACKAGES += \
