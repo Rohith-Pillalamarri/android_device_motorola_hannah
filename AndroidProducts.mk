@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_hannah.mk
+    $(LOCAL_DIR)/havoc_hannah.mk
