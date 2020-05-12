@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_hannah.mk
+    $(LOCAL_DIR)/potato_hannah.mk
