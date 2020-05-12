@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_hannah.mk
+    $(LOCAL_DIR)/arrow_hannah.mk
