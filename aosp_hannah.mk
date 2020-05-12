@@ -11,7 +11,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/bootleg/config/common.mk)
+$(call inherit-product, vendor/bootleg/config/common_full_phone.mk)
 TARGET_GAPPS_ARCH := arm64
 
 # Device identifier. This must come after all inclusions.
