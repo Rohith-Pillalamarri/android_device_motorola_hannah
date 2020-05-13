@@ -1,1 +1,1 @@
-add_lunch_combo aosp_hannah-userdebug
+add_lunch_combo omni_hannah-userdebug
