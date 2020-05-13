@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_hannah.mk
+    $(LOCAL_DIR)/aosp_hannah.mk
