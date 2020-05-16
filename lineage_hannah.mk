@@ -28,10 +28,10 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST += \
     ro.product.name
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="hannah_t-user 8.0.0 OCPS27.91-150-8 2 release-keys" \
+
     PRODUCT_NAME="hannah"
     DEVICE_MAINTAINERS="Rohith Pillalamarri"
 
-BUILD_FINGERPRINT := motorola/hannah_t/hannah:8.0.0/OCP27.91-150-8/2:user/release-keys
+
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
