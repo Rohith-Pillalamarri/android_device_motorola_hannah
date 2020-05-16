@@ -1,7 +1,11 @@
 # Maintainer                                                           
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.device.maintainer=Rohith_Pillalamarri   
-	
+
+# Pixel identification
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.build.fingerprint=google/flame/flame:10/QQ2A.200405.005/6254899:user/release-keys
+
 # Volume
 ro.config.media_vol_steps=30
 ro.config.vc_call_vol_steps=20	
